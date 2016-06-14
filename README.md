@@ -29,8 +29,4 @@ Every experiment is implemented as a separate script. For info on how to launch 
 	python mountaincar.py -h
 	python acrobot.py -h
 
-To perform gridsearch use experiment-manager at
-	
-	https://github.com/lucasgit/experiment-manager.git
-
-Currently experiment-manager only supports launching jobs over the bash shell (not over PBS or other systems).
+To perform gridsearch use [experiment-manager](https://github.com/lucasgit/experiment-manager.git). Currently experiment-manager only supports launching jobs over the bash shell (not over PBS or other systems).
