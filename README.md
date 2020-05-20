@@ -1,6 +1,6 @@
-# rl
+# PGQ
 
-Implementation of various reinforcement learning algorithms in Python.
+This repository contains an implementation of the [PGQ algorithm](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_24.pdf) and other temporal-difference learning algorithms in Python.
 
 On Ubuntu 16.04, install git with
 	
